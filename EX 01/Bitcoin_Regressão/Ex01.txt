@@ -1,0 +1,15 @@
+O dataset do bitcoin pode ser usado para fazer uma predição de preço com a intenção de se investir para gerar lucros a longo prazo.
+
+---------------------------------------------------------
+Variáveis de entrada:
+
+Date,
+Open,
+High,
+Low,
+Volume,
+Market Cap;
+---------------------------------------------------------
+Variável de saída:
+
+Close: Preço de fechamento do Bitcoin.

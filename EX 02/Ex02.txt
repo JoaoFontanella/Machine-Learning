@@ -1,0 +1,14 @@
+O dataset pode ser usado para a detecção de anomalias nos vinhos, ajudando vinicolas a identificar lotes que precisam de maior atenção ou estudo.
+existem mais usos porem acho que esse seria um mais simples e talvez mais eficaz.
+
+---------------------------------------------------------------
+Variáveis Relevantes para a detecção de anomalias nos vinhos:
+
+Alcohol,
+Malic Acid,
+Color Intensity,
+Flavanoids,
+Magnesium,
+Total Phenols,
+OD280 (OD280/OD315),
+Proline.

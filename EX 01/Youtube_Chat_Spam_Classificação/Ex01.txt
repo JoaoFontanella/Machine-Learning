@@ -1,0 +1,14 @@
+O dataset YouTube Spam é usado para detectar spam em comentários de vídeos no YouTube, sendo informado com true(1) ou false(0) na variável de saída Class.
+
+----------------------------------------------------------------
+Variáveis de entrada:
+
+Comment_ID,
+Author,
+Date,
+Content,
+Video_Name;
+--------------------------------------------------------------
+Variável de saída:
+
+Class
